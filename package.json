@@ -1,0 +1,8 @@
+{
+  "name": "danoni_cloud",
+  "version": "0.1.0",
+  "description": "Simple rhythm game on browser.",
+  "dependencies": {
+    "craftyjs": "^0.7.1"
+  }
+}
